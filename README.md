@@ -1,28 +1,28 @@
 # Windows-Server-2019
 Introdução a servidores
-<h5>
-Oracle VirtualBox
+
+<h5>Oracle VirtualBox
 ===================================================
 https://www.virtualbox.org/wiki/Downloads
 
-Windows Server 2019
+<h5>Windows Server 2019
 ===================================================
 https://www.microsoft.com/pt-br/evalcenter/evaluate-windows-server-2019
 
-Windows 10
+<h5>Windows 10
 ===================================================
 https://www.microsoft.com/pt-br/evalcenter/evaluate-windows-10-enterprise
 
-Comparação Windows Server 2019 Standard x DataCenter
+<h5>Comparação Windows Server 2019 Standard x DataCenter
 ====================================================
 https://docs.microsoft.com/pt-br/windows-server/get-started-19/editions-comparison-19
 
-Pacote de Idiomas
+<h5>Pacote de Idiomas
 ===================================================
 https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERLANGPACKDVD_OEM_MULTI.iso
 
 
-Windows Admin Center
+<h5>Windows Admin Center
 ===================================================
 aka.ms/WindowsAdminCenter
 
